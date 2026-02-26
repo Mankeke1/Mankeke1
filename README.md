@@ -57,7 +57,7 @@ Sistema de gestión de inventario interno para empresa de impresión 3D. Incluye
 
 ## Actualmente
 
-- Cursando Ingeniería Civil Informática en UNAB (5to semestre)
+- Cursando Ingeniería Civil Informática (5to semestre)
 - Preparando la certificación eJPT (eLearnSecurity Junior Penetration Tester)
 - Desarrollando sistema de comunicación LoRa para empresa de fabricación 3D
 - Construyendo herramientas de trading algorítmico con automatización de mercados
