@@ -17,7 +17,7 @@
 ## Perfil
 
 <p align="center">
-  Estudiante de <strong>Ingeniería Civil Informática</strong> en Chile, con foco en desarrollo full-stack,
+  Full-Stack, <strong>Ingeniería Civil Informática</strong> en Chile, con foco en desarrollo full-stack,
   ciberseguridad aplicada, automatización e integración de sistemas.
 </p>
 
